@@ -161,7 +161,7 @@ p a:hover{
 
 
 /* Formulario REGISTRO*/
-.formulario {
+.form {
     flex: 1;
     background: rgba(255, 255, 255, 0.08);
     padding: 30px;
@@ -169,12 +169,12 @@ p a:hover{
     /* backdrop-filter: blur(10px); */
 }
 
-.formulario h2 {
+.form h2 {
     text-align: center;
     margin-bottom: 20px;
 }
 
-.formulario input {
+.form input {
     width: 100%;
     padding: 12px;
     margin: 10px 0;
@@ -184,7 +184,7 @@ p a:hover{
     font-size: 14px;
 }
 
-.formulario button {
+.form button {
     width: 100%;
     padding: 12px;
     margin-top: 15px;
@@ -198,7 +198,7 @@ p a:hover{
     transition: 0.3s;
 }
 
-.formulario button:hover {
+.form button:hover {
     background: #e64a19;
 }
 

@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const form = document.getElementById("recuperarForm");
-  const container = document.getElementById("formulario-container");
+  const form = document.getElementById("recoverForm");
+  const container = document.getElementById("form-container");
 
   if (!form) {
     console.error("No se encontró el formulario #recuperarForm");
